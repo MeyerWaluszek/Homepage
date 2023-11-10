@@ -4,6 +4,6 @@ plugins:
 - jekyll-remote-theme
 
 
-title: MeyerWaluszek
-description: Homepage
+title: [MeyerWaluszek]
+description: [Homepage]
 show_downloads: false
