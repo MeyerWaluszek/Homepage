@@ -2,7 +2,7 @@
 [**Lightning**](https://www.lnurlpay.com/meyerwaluszek@meyerwaluszek.com)
 
 # Nostr
-[**Npub**](https://primal.net/p/npub14kfgst7c8x800kyq8txyvx7mls2z0fll2yl329md3runrhrvj8hsy8rxk6)
+[**Npub**](nostr:npub14kfgst7c8x800kyq8txyvx7mls2z0fll2yl329md3runrhrvj8hsy8rxk6)
 
 ## Nostr Apps
 - [Damus](https://damus.io/) - The OG client for iOS
