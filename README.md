@@ -1,5 +1,5 @@
 # Bitcoin
-[**Lightning**](https://www.lnurlpay.com/meyerwaluszek@meyerwaluszek.com)
+[**Lightning**](https://www.lnurlpay.com/meyerwaluszek@fountain.fm)
 
 # Nostr
 [**Npub**](nostr:npub14kfgst7c8x800kyq8txyvx7mls2z0fll2yl329md3runrhrvj8hsy8rxk6)
